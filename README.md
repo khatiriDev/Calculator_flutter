@@ -8,4 +8,4 @@ for downloading the codes of the project
 
 follow the AppSbyDev Instagram page and send me a message
 
-- [Instagram: AppSby_dev](https://flutter.dev/docs/get-started/codelab](https://www.instagram.com/appsby_dev?igsh=dm0ybDF6bDRodjZ6)
+- [Instagram: AppSby_dev](https://www.instagram.com/appsby_dev?igsh=dm0ybDF6bDRodjZ6)
