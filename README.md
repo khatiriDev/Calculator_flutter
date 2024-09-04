@@ -8,6 +8,6 @@
 # Full Code:
 for downloading the codes of the project 
 
-follow the AppSbyDev Instagram page and send me a message
+follow the Khatiri_Dev Instagram page and send me a message
 
-- [Instagram: AppSby_dev](https://www.instagram.com/appsby.dev)
+- [Instagram: AppSby_dev](https://www.instagram.com/khatiri_dev)
