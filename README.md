@@ -10,4 +10,4 @@ for downloading the codes of the project
 
 follow the Khatiri_Dev Instagram page and send me a message
 
-- [Instagram: AppSby_dev](https://www.instagram.com/khatiri_dev)
+- [Instagram: Khatiri_Dev](https://www.instagram.com/khatiri_dev)
