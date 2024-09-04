@@ -3,7 +3,7 @@
 - Quick Calculation🚀
 - Copyable Result📋
 
-![calculator_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/0l4g53u86odym61/calculator_0vPM2uAC)
+![calculator_ui](https://appsbydev.chbk.run/api/files/5mcd64cn9lcnrwv/0l4g53u86odym61/calculator_0vPM2uACLF.png)
 
 # Full Code:
 for downloading the codes of the project 
