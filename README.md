@@ -3,7 +3,7 @@
 - Quick Calculation🚀
 - Copyable Result📋
 
-![calculator_ui](https://amirkhatiri.ir/api/files/5mcd64cn9lcnrwv/0l4g53u86odym61/calc_L52F4QHVkO.png)
+![calculator_ui](https://appsbydev.chbk.app/api/files/5mcd64cn9lcnrwv/0l4g53u86odym61/calc_L52F4QHVkO.png)
 
 # Full Code:
 for downloading the codes of the project 
